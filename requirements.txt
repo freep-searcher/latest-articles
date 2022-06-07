@@ -38,7 +38,6 @@ ipykernel==5.4.2
 ipython==7.19.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.2
-isc==2.0
 isort==5.7.0
 jedi==0.17.2
 Jinja2==2.11.3
@@ -49,7 +48,6 @@ jupyter-console==6.2.0
 jupyter-core==4.7.0
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
-lensfun==0.3.95
 lxml==4.6.5
 MarkupSafe==1.1.1
 matplotlib==3.3.3
